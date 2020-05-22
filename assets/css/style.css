@@ -1163,9 +1163,9 @@ label.custom-checkbox .checkmark:after {
 .footer-style-1 .footer-style-1-box .logo,
 .main-navigation-style-1 .navigation .mobile-logo,
 .main-navigation-style-1 .navigation .logo {
-    width: 152px;
-    height: 42px;
-    margin: 10px 0;
+    width: 200px;
+    height: auto;
+    margin: 5px 0;
 }
 .main-navigation-style-1 .navigation .mobile-logo {
     display: none;
